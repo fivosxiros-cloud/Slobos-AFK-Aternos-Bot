@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "LostPlanets.aternos.me",
+    "ip": "LostPlanets.aternos.me:15438",
     "port": 15438,
     "version": "1.21.11",
     "try-creative": false
