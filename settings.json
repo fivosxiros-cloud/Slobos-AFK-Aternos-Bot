@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Notch",
+    "username": "bot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "DeadUniverse.aternos.me",
-    "port": 37101,
+    "ip": "LostPlanets.aternos.me",
+    "port": 15438,
     "version": "1.21.11",
     "try-creative": false
   },
